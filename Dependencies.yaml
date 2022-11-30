@@ -1,4 +1,4 @@
-name: FED3_time_bins
+name: Telemetry_time_bins
 channels:
   - defaults
 dependencies:
