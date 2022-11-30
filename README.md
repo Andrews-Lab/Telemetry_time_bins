@@ -7,6 +7,10 @@ __Kaha Sciences Mouse Telemetry System__
 The [Kaha Sciences Mouse Telementry System](https://www.kahasciences.com/wireless-telemetry-overview/) allows signals like movement and temperature to be tracked over time when mice are in their home cages.
 This avoids the handling of mice, which inteferes with their natural physiological function.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/101311642/204728940-aef07631-8ed4-4514-88bb-0942cbb47122.png">
+</p><br/>
+
 __Purpose__
 
 The .ASC output from the telemetry devices show the timestamps for temperature and locomotor activity values. This repository :
