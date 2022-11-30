@@ -16,7 +16,7 @@ The .ASC output from the telemetry devices show the timestamps for temperature a
 __Preview of the graphical user interface__
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/101311642/204723125-195a911b-0c59-4b09-87cc-596405825e86.png" width="300">
+  <img src="https://user-images.githubusercontent.com/101311642/204723125-195a911b-0c59-4b09-87cc-596405825e86.png" width="400">
 </p><br/>
 
 __Input and output data__
