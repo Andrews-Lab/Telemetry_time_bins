@@ -77,5 +77,6 @@ __Credits:__ <br>
 Sarah Lockie, Zane Andrews <br>
 
 __About the labs:__ <br>
+The [Lockie lab](https://www.monash.edu/discovery-institute/lockie-lab) studies how hunger signalling in the brain drives mood-related behaviour, memory, motivation and metabolism in mouse models of disease. <br>
 The [Andrews lab](https://www.monash.edu/discovery-institute/andrews-lab) investigates how the brain senses and responds to hunger. <br>
 The [Foldi lab](https://www.monash.edu/discovery-institute/foldi-lab) investigates the biological underpinnings of anorexia nervosa and feeding disorders. <br>
