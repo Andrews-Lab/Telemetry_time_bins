@@ -1,8 +1,10 @@
 name: Telemetry_time_bins
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.7
+  - PySimpleGUI
   - pip
   - pip:
     - tqdm
@@ -11,3 +13,4 @@ dependencies:
     - pandas
     - openpyxl
     - Jinja2
+
